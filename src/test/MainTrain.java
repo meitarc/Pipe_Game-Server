@@ -3,7 +3,7 @@ package test;
 import server.MyClientHandler;
 import server.MyServer;
 import server.Server;
-
+//
 public class MainTrain {
     // run your server here
     static Server s;
