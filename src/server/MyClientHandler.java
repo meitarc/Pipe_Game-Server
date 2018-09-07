@@ -7,9 +7,6 @@ import Classs.*;
 import algorithms.*;
 import searchable.PipeGameMapSearchable;
 
-/*
- * ? Gil Yermiyah, Ziv Sofrin.
- */
 
 
 public class MyClientHandler implements ClientHandler {

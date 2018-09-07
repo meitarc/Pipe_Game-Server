@@ -11,7 +11,7 @@ import java.util.function.Supplier;
 
 public class MyServer implements Server{
 	
-	///DONT PRINT ANYTHING IN THAT CLASS!!!!!!!!!!!!
+	//DONT PRINT ANYTHING IN THAT CLASS!
 	private final int port;
 	private ClientHandler ch;
 	private volatile boolean stop;
@@ -98,7 +98,7 @@ public class MyServer implements Server{
 	}
 	
 	/*
-	 * © Gil Yermiyah, Ziv Sofrin.
+	 * ï¿½ Gil Yermiyah, Ziv Sofrin.
 	 */
 	
 	@Override
@@ -110,7 +110,7 @@ public class MyServer implements Server{
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-		}).start(); // we will learn about it semester B…
+		}).start(); // we will learn about it semester Bï¿½
 	}
 
 	@Override
