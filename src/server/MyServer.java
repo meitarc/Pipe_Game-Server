@@ -97,9 +97,6 @@ public class MyServer implements Server{
 		
 	}
 	
-	/*
-	 * � Gil Yermiyah, Ziv Sofrin.
-	 */
 	
 	@Override
 	public void start(ClientHandler clientHandler) {
@@ -110,7 +107,7 @@ public class MyServer implements Server{
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-		}).start(); // we will learn about it semester B�
+		}).start(); 
 	}
 
 	@Override
