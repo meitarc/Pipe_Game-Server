@@ -97,7 +97,6 @@ public class MyServer implements Server{
 		
 	}
 	
-	
 	@Override
 	public void start(ClientHandler clientHandler) {
 		this.ch=clientHandler;
